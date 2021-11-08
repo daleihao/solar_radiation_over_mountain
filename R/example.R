@@ -12,7 +12,7 @@ plot(lake, add = TRUE)
 slopes = terrain(elevation, opt="slope", unit="degrees", neighbors=8)
 plot(slopes)
 
-# slope
+# aspect
 aspects = terrain(elevation, opt="aspect", unit="degrees", neighbors=8)
 plot(aspects)
 
