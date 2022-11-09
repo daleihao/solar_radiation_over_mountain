@@ -3,6 +3,8 @@ program for solar radiation calculation over mountainous areas
 
 https://github.com/daleihao/HORAYZON
 
+https://github.com/USDA-ARS-NWRC/topocalc
+
 # References
   1. Hao, Dalei, et al. "A parameterization of sub-grid topographical effects on solar radiation in the E3SM Land Model (version 1.0): implementation and evaluation over the Tibetan Plateau." Geoscientific Model Development 14.10 (2021): 6273-6289.
 
